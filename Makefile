@@ -23,7 +23,7 @@ else
 endif
 
 
-BINARY = test
+BINARY = mean
 BINDIR = bin
 OBJDIR = obj
 SOURCES = $(shell echo *.cpp)
