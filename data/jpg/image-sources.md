@@ -1,0 +1,1 @@
+[Medical_X-Ray_imaging_WYJ07_nevit.jpg](http://upload.wikimedia.org/wikipedia/commons/e/e1/Medical_X-Ray_imaging_WYJ07_nevit.jpg)
